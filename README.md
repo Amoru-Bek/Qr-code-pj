@@ -47,9 +47,7 @@ Btw i am using the dark theme on my browser that's why the page is dark .
     }
 ```
 
-## Author
-
-Amrou Bekhedda
+## Author: Amrou Bekhedda
 
 - Frontend Mentor - [Amrou Bekhedda](https://www.frontendmentor.io/profile/Amoru-Bek)
 - Linkedin - [@Amrou Bekhedda](https://www.linkedin.com/in/amrou-bekhedda-99b314341/)
